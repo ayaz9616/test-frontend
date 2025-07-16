@@ -1,7 +1,7 @@
 import Home from './pages/Home'
 import Add from './pages/Add'
 import AI from './pages/AI'
-import AllChats from './pages/allChats'
+import AllChats from './pages/AllChats'
 import VideoCall from './pages/VideoCall'
 import { Routes, Route } from 'react-router-dom'
 import './App.css'
